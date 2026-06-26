@@ -218,3 +218,47 @@ section{
     font-weight:700;
     color:var(--primary);
 }
+
+/* =========================
+   HERO SECTION
+========================= */
+#hero{
+    min-height:80vh;
+    display:flex;
+    align-items:center;
+}
+
+.hero-container{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:60px;
+    align-items:center;
+}
+
+.hero-content p{
+    max-width:600px;
+    margin:20px 0;
+}
+
+.hero-buttons{
+    display:flex;
+    gap:16px;
+}
+
+.hero-placeholder{
+
+    background:white;
+
+    border-radius:var(--radius-lg);
+
+    box-shadow:var(--shadow);
+
+    min-height:400px;
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+    font-size:1.2rem;
+    color:var(--text-secondary);
+}
