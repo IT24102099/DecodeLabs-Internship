@@ -761,41 +761,26 @@ footer{
     display:flex;
 
     flex-direction:column;
-
     justify-content:center;
-
 }
 .brand h1{
-
     font-size:3rem;
-
     color:white;
-
     margin-bottom:20px;
-
 }
 
 .brand p{
-
     color:rgba(255,255,255,.9);
-
     font-size:1.1rem;
-
     line-height:1.8;
-
 }
 .login-illustration{
     margin-top:60px;
     text-align:center;
-
 }
 
 .login-illustration img{
-
     width:100%;
-
     max-width:380px;
-
     margin:auto;
-
 }
