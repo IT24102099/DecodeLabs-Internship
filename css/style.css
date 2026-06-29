@@ -751,15 +751,10 @@ footer{
 
 }
 .login-left{
-
     background:linear-gradient(135deg,#2563EB,#1D4ED8);
-
     color:white;
-
     padding:60px;
-
     display:flex;
-
     flex-direction:column;
     justify-content:center;
 }
